@@ -1,4 +1,0 @@
-voila
-bqplot
-qgrid
-numpy
